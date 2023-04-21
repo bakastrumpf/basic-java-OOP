@@ -1,0 +1,5 @@
+reader = new Scanner(new File("Radnici.txt"));
+Scanner linija = new Scanner(reader.nextLine());
+
+Scanner reader = new Scanner(new File("Radnici.txt"));
+Scanner linija = new Scanner(reader.nextLine());

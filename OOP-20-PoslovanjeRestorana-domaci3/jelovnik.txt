@@ -1,0 +1,13 @@
+govedjaSupa predjelo 150.0
+pilećaSupa predjelo 150.0
+šnicla glavnoJelo 250.0
+pasulj glavnoJelo 200.0
+kropirPire prilog 100.0
+ruskaSalata salata 160.0
+šopskaSalata salata 160.0
+švarcvald dezert 200.0
+palačinka dezert 150.0
+voda piće 100.0
+kafa piće 130.0
+fanta 150.0
+
