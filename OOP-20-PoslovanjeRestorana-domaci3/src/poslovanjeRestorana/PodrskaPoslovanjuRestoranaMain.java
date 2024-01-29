@@ -60,7 +60,7 @@ public class PodrskaPoslovanjuRestoranaMain {
 		restoran.noviJelovnik("noviJelovnik.txt");
 		
 		restoran.ucitajListuMusterija("musterije.txt");
-		restoran.pronadjiMusteriju("062852225")
+		restoran.pronadjiMusteriju("062852225");
 		Musterija m1 = new Musterija();
 		restoran.dodajMusteriju("Dušanka", "Simić", "Kosovska8", "062852225");
 		restoran.ucitajListuMusterija("musterije.txt");
